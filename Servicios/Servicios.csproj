@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Servicios.asmx" />
+    <Content Include="system\Productos.html" />
     <Content Include="system\WebForm1.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
